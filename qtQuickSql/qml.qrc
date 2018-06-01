@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>pic/all.png</file>
+        <file>pic/big.png</file>
+        <file>pic/book.png</file>
+        <file>pic/choose.png</file>
+        <file>pic/load.png</file>
+        <file>pic/reset.png</file>
+        <file>pic/search.png</file>
+        <file>pic/small.png</file>
+    </qresource>
+</RCC>
